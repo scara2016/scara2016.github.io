@@ -19,6 +19,7 @@ $(function() {
             }
             $.ajax({
                 url: "././mail/contact_me.php",
+                action: "https://formspree.io/f/xjvjlkyq",
                 type: "POST",
                 data: {
                     name: name,
