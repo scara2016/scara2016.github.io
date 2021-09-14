@@ -6,5 +6,5 @@ img: cake.png
 alt: image-alt
 project-date: February 2021
 category: Level Design
-description: 3 level platformer designed using third party scripts and tiles. Made to make a proper difficulty curve
+description: 3 level platformer designed using third party scripts and tiles. Made to make a proper difficulty curve. <a href="https://github.com/scara2016/Space-Shooter-2D-Platformer-">Github<a>
 ---
