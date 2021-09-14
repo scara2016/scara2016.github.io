@@ -6,5 +6,5 @@ img: circus.png
 alt: image-alt
 project-date: september 2021
 category: Game Development
-description: Small twin-stick shooter which is currently being worked on for a long-term project. 
+description: Small twin-stick shooter which is currently being worked on for a long-term project. <a href="https://github.com/scara2016/TwinStickShooter">GitHub</a> 
 ---
