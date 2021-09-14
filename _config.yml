@@ -1,10 +1,10 @@
 # Site settings
 title: Freelancer
-email: your-email@domain.com
+email: guriqbal107@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Game Designer - Game Developer - Adventurer"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Guriqbal Singh Majhail
+  location: Sydney, Australia
+  social: @calming_warlock
+  credits: Credit
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
