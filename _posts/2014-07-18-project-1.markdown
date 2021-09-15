@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: cards_icon.png
-inner-img: circus.png
+inner-img: inner-sabotoad
 alt: image-alt
 project-date: February 2020
 category: Game Design
