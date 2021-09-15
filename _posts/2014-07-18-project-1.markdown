@@ -6,5 +6,5 @@ img: cabin.png
 alt: image-alt
 project-date: February 2020
 category: Game Design
-description: Designed a card game in 2 weeks with  a team of 4.<a href="scara2016.github.io/TheSabotoadCardGameV1.pdf" target="_blank">Here</a>
+description: Designed a card game in 2 weeks with  a team of 4.<a href="TheSabotoadCardGameV1.pdf" target="_blank">Here</a>
 ---
