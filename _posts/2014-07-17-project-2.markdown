@@ -2,8 +2,8 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: inner-Platformer.png
-inner-img: platformer_icon.png
+img: platformer_icon.png
+inner-img: inner-Platformer.png 
 alt: image-alt
 project-date: February 2021
 category: Level Design
