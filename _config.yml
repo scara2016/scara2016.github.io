@@ -1,5 +1,6 @@
 # Site settings
 title: My Work
+name: Guriqbal Singh Majhail
 email: guriqbal107@gmail.com
 url: /scara2016.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -52,7 +53,7 @@ social:
 #-  - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.<br> Icons by Flora Wang(flora.wang125@gmail.com)'
 
 # Build settings
 markdown: kramdown
