@@ -40,16 +40,16 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
-    url: http://twitter.com/jekyllrb
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://www.instagram.com/calming_warlock
+  - title: twitter
+    url: https://twitter.com/calming_warlock
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/scara2016
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+#-address:
+#-  - line: 3481 Melrose Place
+#-  - line: Beverly Hills, CA 90210
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
