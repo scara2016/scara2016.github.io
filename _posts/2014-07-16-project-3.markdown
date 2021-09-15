@@ -3,6 +3,7 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: circus.png
+inner-img: cake.png
 alt: image-alt
 project-date: september 2021
 category: Game Development
