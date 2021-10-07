@@ -5,7 +5,7 @@ date: 2014-07-15
 img: legs_icon.png
 inner-img: inner-WalkingSim.png
 alt: image-alt
-project-date: April 2014
+project-date: Novembor 2020
 category: Game Development
 description: Simple walking sim level created using a mix of third party assets and models and self created models.
 ---
