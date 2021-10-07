@@ -5,7 +5,7 @@ date: 2014-07-15
 img: grid_icon.png
 inner-img: inner-landscapecreater.png
 alt: image-alt
-project-date: April 2014
-category: SoftWare-Engineering/GameDevelopment
+project-date: October 2021
+category: Software Engineering / Game Development
 description: LandScaper creater made with only java and java libraries.<a href="https://github.com/scara2016/Java_LandScapeCreater" target="_blank">Here</a>
 ---
