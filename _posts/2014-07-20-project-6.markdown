@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: car_icon.png
+inner-img: inner-landscapecreater.png
+alt: image-alt
+project-date: Novembor 2021
+category: Game Development
+description: Timed racing game coded from scratch in a group of two in a week.<a href="https://github.com/scara2016/Java_LandScapeCreater" target="_blank">Here</a>
+---
