@@ -2,8 +2,8 @@
 layout: default
 modal-id: 7
 date: 2014-07-15
-img: car_icon.png
-inner-img: inner_car_image.png
+img: inversion.png
+inner-img: inversion.png
 alt: image-alt
 project-date: April 2022
 category: Game Development
