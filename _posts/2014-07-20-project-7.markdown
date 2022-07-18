@@ -7,5 +7,7 @@ inner-img: inversion.png
 alt: image-alt
 project-date: April 2022
 category: Game Development
-description: Timed racing game coded from scratch in a group of two in a week.<a href="https://github.com/scara2016/CarGame" target="_blank">Here</a>
+description: This was a game created in 2 days during the MQ Game Jam 2022
+
+Theme: Reunion.<a href="https://scara2016.itch.io/inversion" target="_blank">Here</a>
 ---
