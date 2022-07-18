@@ -7,5 +7,5 @@ inner-img: inversion.png
 alt: image-alt
 project-date: April 2022
 category: Game Development
-description: This was a game created in 2 days during the MQ Game Jam 2022 <br> Theme Reunion.<a href="https://scara2016.itch.io/inversion" target="_blank">Here</a>
+description: This was a game created in 2 days during the MQ Game Jam 2022 <br> Theme- Reunion.<a href="https://scara2016.itch.io/inversion" target="_blank">Here</a>
 ---
