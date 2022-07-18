@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 8
+date: 2014-07-15
+img: Shader.png
+inner-img: Shader.png
+alt: image-alt
+project-date: April 2022
+category: Game Development
+description: Custom made scene using java with UV mapping, Diffuse, Ambient and Specular lighting and mathematically generated shapes.<br><a href="https://github.com/scara2016/Shaders-One" target="_blank">Here</a>
+---
