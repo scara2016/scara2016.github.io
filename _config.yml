@@ -40,6 +40,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: itch.io
+    url: itch.io
   - title: instagram
     url: https://www.instagram.com/calming_warlock
   - title: linkedin
