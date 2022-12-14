@@ -2,10 +2,10 @@
 layout: default
 modal-id: 11
 date: 2014-07-15
-img: issues.png
+img: Logo.png
 inner-img: issues.png
 alt: image-alt
-project-date: April 2022
+project-date: November 2022
 category: Game Development
-description: Platformer demo made with a comic aesthetic in a team of 4. Role- Lead programmer and producer.<br><a href="https://scara2016.itch.io/issues-demo" target="_blank">Here</a>
+description: experience created and published on the Liminal VR platform in 5 months. I was the gameplay programmer and technical artist for the project. Will be released in late December.
 ---
