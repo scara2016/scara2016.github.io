@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 10
+date: 2014-07-18
+img: cards_icon.png
+inner-img: inner-sabotoad.png
+alt: image-alt
+project-date: February 2020
+category: Game Design
+description: Designed a card game in 2 weeks with  a team of 4.<a href="https://github.com/scara2016/TheSabotoadV1" target="_blank">Here</a>
+---
