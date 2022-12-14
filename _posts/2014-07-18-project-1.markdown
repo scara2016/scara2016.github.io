@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cards_icon.png
+img: redhandedthumbnail.png
 inner-img: inner-sabotoad.png
 alt: image-alt
-project-date: February 2020
-category: Game Design
-description: Designed a card game in 2 weeks with  a team of 4.<a href="https://github.com/scara2016/TheSabotoadV1" target="_blank">Here</a>
+project-date: November 2022
+category: Game development/Production
+description: Murder mystery narrative game, developed in a team of four in a span of 4 months, I was one of two software engineers aswell as managing production for the team.<a href="https://github.com/scara2016/TheSabotoadV1](https://bazzagibbs.itch.io/red-handed?password=red-handed" target="_blank">Here</a>
 ---
