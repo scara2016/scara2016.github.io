@@ -3,7 +3,7 @@ layout: default
 modal-id: 11
 date: 2014-07-15
 img: Logo.png
-inner-img: issues.png
+inner-img: FoodFightInside.png
 alt: image-alt
 project-date: November 2022
 category: Game Development
