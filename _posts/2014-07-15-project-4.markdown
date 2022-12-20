@@ -7,5 +7,5 @@ inner-img: inner-WalkingSim.png
 alt: image-alt
 project-date: Novembor 2020
 category: Game Development
-description: Simple walking sim level created using a mix of third party assets and models and self created models. <a href="https://github.com/scara2016/Walking-sim-level" target="_blank">Github</a>
+description: Simple walking sim level created using a mix of third party assets and models and self created models. <a href="https://scara2016.itch.io/walkingsim" target="_blank">Github</a>
 ---
