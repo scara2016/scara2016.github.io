@@ -4,7 +4,7 @@ modal-id: 1
 date: 2014-07-18
 img: redhandedthumbnail.png
 inner-img: inner-sabotoad.png
-alt: img-alt
+alt: image-alt
 project-date: November 2022
 category: Game development/Production
 description: Murder mystery narrative game, developed in a team of four in a span of 4 months, I was one of two software engineers aswell as managing production for the team.<a href="https://bazzagibbs.itch.io/red-handed?password=red-handed" target="_blank">Here</a>
