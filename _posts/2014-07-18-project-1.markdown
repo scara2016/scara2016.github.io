@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: redhandedthumbnail.png
-inner-img: RedHandedGangJailBlood.png
+inner-img: redhandedthumbnail.png
 alt: image-alt
 project-date: November 2022
 category: Game development/Production
