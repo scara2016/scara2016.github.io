@@ -7,5 +7,5 @@ inner-img: inner-twinStick.png
 alt: image-alt
 project-date: september 2021
 category: Game Development
-description: Small twin-stick shooter which is currently being worked on for a long-term project. <a href="https://github.com/scara2016/TwinStickShooter">GitHub</a> 
+description: Small twin-stick shooter with a music visualizer and basic beat based enemy firing patterns. <a href="https://scara2016.itch.io/twinstickshooter">Here</a> 
 ---
